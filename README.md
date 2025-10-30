@@ -2,7 +2,8 @@
 
 | Name | Date |  Place | Link |
 |-----------|-----------|-----------|-----------|
-| Intro to AI Agents using smolagents | 29/10/2025    | California (USA) - Online    | [link](./intro_to_agents) |
+| Fine tuning with TRL | 30/10/2025    | HF office (Paris)    | [link](./fine_tuning_with_trl) |
+| Intro to AI Agents using smolagents | 27/10/2025    | California (USA) - Online    | [link](./intro_to_agents) |
 | Intro to HF (Open alternative + ML Engineer work) | 22/10/2025    | Universidad Carlos III (Madrid)    | [link](./intro_to_hf) |
 | Multimodality @ Hugging Face    | 26/09/2025    | Google Campus for Startups Madrid    | [link](./multimodal_ai) |
 | The Open Alternative for the AI world    | 13/06/2025    | Abadia Tecnológica Tech Talks  (Burgos)    | [link](./open_alternative_ai) |
