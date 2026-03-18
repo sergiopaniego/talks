@@ -2,6 +2,7 @@
 
 | Name | Date |  Place | Link |
 |-----------|-----------|-----------|-----------|
+| Fine-tuning de LLMs with TRL + OpenEnv and Agents in prod | 18/03/2026    | PyData Madrid (Madrid)    | [link](./fine_tuning_with_trl_openenv_pydata_madrid) |
 | Fine-tuning LLMs and VLMs with open-source libraries | 04/03/2026    | Universidad Rey Juan Carlos (Móstoles, Madrid)    | [link](./fine_tuning_with_trl_urjc) |
 | Intro to HF - Robotics (Open alternative + ML Engineer work) | 12/12/2025    | Universidad Rey Juan Carlos (Fuenlabrada, Madrid)    | [link](./intro_to_hf_dic_25) |
 | La alternativa abierta para el mundo de la IA | 15/11/2025    | Nerdearla, La Nave (Madrid)    | [link](./open_alternative_ai_nov_25) |
