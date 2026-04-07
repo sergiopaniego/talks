@@ -2,6 +2,7 @@
 
 | Name | Date |  Place | Link |
 |-----------|-----------|-----------|-----------|
+| From Responses To Trajectories_ Multi-Turn and Multi-Environment Reinforcement Learning| 07/04/2026    | PyTorch Conference Europe (Paris)    | [link](./pytorch_conf_europe_26) |
 | Fine-tuning LLMs with TRL + OpenEnv | 26/03/2026    | Universidad de León (online)    | [link](./fine_tuning_with_trl_openenv_unileon) |
 | Fine-tuning de LLMs with TRL + OpenEnv and Agents in prod | 18/03/2026    | PyData Madrid (Madrid)    | [link](./fine_tuning_with_trl_openenv_pydata_madrid) |
 | Fine-tuning LLMs and VLMs with open-source libraries | 04/03/2026    | Universidad Rey Juan Carlos (Móstoles, Madrid)    | [link](./fine_tuning_with_trl_urjc) |
