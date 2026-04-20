@@ -2,7 +2,8 @@
 
 | Name | Date |  Place | Link |
 |-----------|-----------|-----------|-----------|
-| Hugging Face Hub | 14/05/2026    | Universidad Internacional de Valencia (online)    | [link](./huggingface_hub_26) |
+| Fine-tuning LLMs with TRL + OpenEnv | 20/04/2026    | Universidad Internacional de Valencia (online)    | [link](./fine_tuning_with_trl_openenv_unileon) |
+| Hugging Face Hub | 14/04/2026    | Universidad Internacional de Valencia (online)    | [link](./huggingface_hub_26) |
 | From Responses To Trajectories_ Multi-Turn and Multi-Environment Reinforcement Learning | 08/04/2026    | PyTorch Conference Europe (Paris)    | [link](./pytorch_conf_europe_26) |
 | Fine-tuning LLMs with TRL + OpenEnv | 26/03/2026    | Universidad de León (online)    | [link](./fine_tuning_with_trl_openenv_unileon) |
 | Fine-tuning de LLMs with TRL + OpenEnv and Agents in prod | 18/03/2026    | PyData Madrid (Madrid)    | [link](./fine_tuning_with_trl_openenv_pydata_madrid) |
