@@ -2,6 +2,7 @@
 
 | Name | Date |  Place | Link |
 |-----------|-----------|-----------|-----------|
+| Post-entrenamiento de LLMs | 11/05/2026    | Universidad Politécnica de Madrid (Madrid)    | [link](./postentrenamiento_llms_trl_openenv) |
 | Fine-tuning LLMs with TRL + OpenEnv | 20/04/2026    | Universidad Internacional de Valencia (online)    | [link](./fine_tuning_with_trl_openenv_unileon) |
 | Hugging Face Hub | 14/04/2026    | Universidad Internacional de Valencia (online)    | [link](./huggingface_hub_26) |
 | From Responses To Trajectories_ Multi-Turn and Multi-Environment Reinforcement Learning | 08/04/2026    | PyTorch Conference Europe (Paris)    | [link](./pytorch_conf_europe_26) |
