@@ -2,6 +2,7 @@
 
 | Name | Date |  Place | Link |
 |-----------|-----------|-----------|-----------|
+| Training a coding agent through a harness you did not write | 06/10/2026    | Kernel Panic, AI Open Models Conference #01, Casa del Lector (Madrid)    | [link](./kernel_panic_26) |
 | Training a coding agent through a harness you did not write | 23/09/2026    | Lisbon AI (Lisbon)    | [link](./lisbon_ai_26) |
 | Train the agent, not just the model | 06/07/2026    | I Jornada sobre Software Libre e Inteligencia Artificial Abierta, Universidad Rey Juan Carlos (Madrid)    | [link](./train_the_agent) |
 | Post-entrenamiento de LLMs | 11/05/2026    | Universidad Politécnica de Madrid (Madrid)    | [link](./postentrenamiento_llms_trl_openenv) |
