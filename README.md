@@ -3,7 +3,7 @@
 | Name | Date | Place | Files | Video | Slides |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Train the agent, not just the model | 21/10/2026 | 🇺🇸 PyTorch Conference North America, San Jose | [PDF](./pytorch_conf_na_26) |  | [HF Space](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides) |
-| Train the agent, not just the model | 14/10/2026 | 🇪🇸 PyTorch Madrid, Madrid | [PDF](./pytorch_conf_na_26) |  | [HF Space](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides) |
+| Train the agent, not just the model | 14/10/2026 | 🇪🇸 PyTorch Madrid, Madrid | [PDF](./pytorch_madrid_26) |  | [HF Space](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides-pytorch-madrid) |
 | Training a coding agent through a harness you did not write | 06/10/2026 | 🇪🇸 Kernel Panic, AI Open Models Conference #01, Casa del Lector, Madrid | [PDF](./kernel_panic_26) |  | [HF Space](https://huggingface.co/spaces/FineEnvs/multi-harness-rl-slides) |
 | Training a coding agent through a harness you did not write | 23/09/2026 | 🇵🇹 Lisbon AI, Lisbon | [PDF](./lisbon_ai_26) | [YouTube](https://youtu.be/tjcQCnSk620) | [Google Slides](https://docs.google.com/presentation/d/1_1quMD_RdFQ-ghMTDru3Lpl5A4clweQEHtFC4e1mupQ) |
 | Train the agent, not just the model | 06/07/2026 | 🇪🇸 seLIA, I Jornada sobre Software Libre e Inteligencia Artificial Abierta, Universidad Rey Juan Carlos, Fuenlabrada | [PDF](./train_the_agent) |  | [Google Slides](https://docs.google.com/presentation/d/1qrx3xYCdA7KjwfFFvpCwNFdVUK-QeiKYp-nUw2V0LOM) |
