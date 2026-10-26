@@ -2,6 +2,7 @@
 
 | Name | Date | Place | Files | Video | Slides |
 |-----------|-----------|-----------|-----------|-----------|-----------|
+| Building AI in the open (ML Engineer at Hugging Face + training models) | 28/10/2026 | 🇪🇸 Universidad Carlos III, Leganés | [PDF](./intro_to_hf_oct_26) |  | [HF Space](https://huggingface.co/spaces/sergiopaniego/building-ai-in-the-open-slides) |
 | Train the agent, not just the model | 21/10/2026 | 🇺🇸 PyTorch Conference North America, San Jose | [PDF](./pytorch_conf_na_26) |  | [HF Space](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides) |
 | Train the agent, not just the model | 14/10/2026 | 🇪🇸 PyTorch Madrid, Madrid | [PDF](./pytorch_madrid_26) |  | [HF Space](https://huggingface.co/spaces/sergiopaniego/train-the-agent-slides-pytorch-madrid) |
 | Training a coding agent through a harness you did not write | 06/10/2026 | 🇪🇸 Kernel Panic, AI Open Models Conference #01, Casa del Lector, Madrid | [PDF](./kernel_panic_26) |  | [HF Space](https://huggingface.co/spaces/FineEnvs/multi-harness-rl-slides) |
